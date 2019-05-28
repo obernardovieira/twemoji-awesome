@@ -1,0 +1,20 @@
+{
+  "name": "twemoji-awesome",
+  "version": "1.0.0",
+  "description": "Unfortunately, this project is **no longer maintained**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obernardovieira/twemoji-awesome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obernardovieira/twemoji-awesome/issues"
+  },
+  "homepage": "https://github.com/obernardovieira/twemoji-awesome#readme"
+}
